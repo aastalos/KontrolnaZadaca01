@@ -5,7 +5,11 @@
 //Napisi funkciju koja koristi switch selekciju za pretvaranje numerickog unosa u godisnje u doba. Za neispravan unos ispisi prikladnu poruku.
 //INPUT: 1; OUTPUT: "Jesen";
 //INPUT: 3; OUTPUT: "Ljeto"; 
-function 
+function godisnje_doba (let god_dob)[
+    switch{
+    case 1: god_dob="Proljece";
+    }
+]
 
 //3 (4 BODA)
 //Napisi funkciju koja okrece uneseni string i broji charactere uzimajuci u obzir prazna mjesta (eng. whitespaces)
